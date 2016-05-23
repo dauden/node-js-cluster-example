@@ -1,0 +1,43 @@
+{
+  "name": "clustering",
+  "version": "0.0.1",
+  "description": "node cluster API wrapper and extensions",
+  "license": "Artistic-2.0",
+  "keywords": [
+    "cluster",
+    "master",
+    "strongloop",
+    "strongops",
+    "supervisor"
+  ],
+  "main": "",
+  "scripts": {
+    "pretest": "",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dauden/node-js-cluster-example.git"
+  },
+  "author": {
+    "name": "Anh Nguyen",
+    "email": "anh.nguyen@codingland.com"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.2",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "strong-cluster-connect-store": "^1.0.3",
+    "strong-cluster-control": "^2.2.3",
+    "strong-store-cluster": "^1.0.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "gitHead": "48231c1b7fa200862babea8d005744b2edbd4308",
+  "bugs": {
+    "url": "https://github.com/dauden/node-js-cluster-example.git/issues"
+  },
+  "homepage": "https://github.com/dauden/node-js-cluster-example.git#readme"
+}
